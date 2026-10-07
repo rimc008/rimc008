@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 A Full stack and Ai developer
-
+Full-Stack and AI developer (MCA, 2026) who builds end-to-end web applications with React, Next.js,
+Node.js, Express.js, and FastAPI, and ships LLM features such as RAG, semantic search, and multi-model
+pipelines using LangChain, LangGraph, and Qdrant. Skilled in REST API design, MongoDB, MySQL, Docker,
+and JWT authentication.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/romanchakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rikuc08@gmail.com) 
