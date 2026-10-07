@@ -15,6 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rimc008&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://github.com/rimc008/YojanaAi.git
+https://github.com/rimc008/Rag_project2.git
+https://github.com/rimc008/Ecommerce.git
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
